@@ -1,13 +1,13 @@
 # Project Name
 
-Llaminati's Restaurant Reservation System
+UrbanEats Restaurant Reservation System
 
 ## Related Projects
 
-  - https://github.com/llaminati/Banner-Gallery
-  - https://github.com/llaminati/Menu
-  - https://github.com/llaminati/Reservations
-  - https://github.com/llaminati/Reviews
+  - https://github.com/UrbanEats/Banner-Gallery
+  - https://github.com/UrbanEats/Menu
+  - https://github.com/UrbanEats/Reservations
+  - https://github.com/UrbanEats/Reviews
 
 ## Table of Contents
 
