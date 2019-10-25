@@ -1,39 +1,43 @@
 # UrbanEats
-
-UrbanEats Restaurant Reservation System
-
 ![](https://media.giphy.com/media/duWtN8qL5luF8p6xGS/giphy.gif)
 
-## Related Projects
+## Description
+The reservations components for a restaurant reservations service.
 
+## Related Projects
   - https://github.com/UrbanEats/Banner-Gallery
   - https://github.com/UrbanEats/Menu
   - https://github.com/UrbanEats/Reservations
   - https://github.com/UrbanEats/Reviews
 
 ## Table of Contents
-
 1. [Usage](#Usage)
 1. [Requirements](#requirements)
 1. [Development](#development)
 
-## Usage
-
-
-
 ## Requirements
-
-An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
-
-- Node 6.13.0
-- etc
-
-## Development
+- Node v8.15.x
+- MongoDB v4.2.x
+- npm v6.10.x
 
 ### Installing Dependencies
+From within the root directory
 
-From within the root directory:
+0. To see a working version of the 
 
-npm install
+1. Install project dependencies
+```npm install```
+
+2. To seed the MongoDB database
+```npm run seed```
+
+3. To create a client bundle
+```npm run build```
+
+4. To start the server
+```npm server-dev```
+
+5. To see the fruit of your labors, go to `localhost:3000/:rid/reservations` i.e. localhost:3000/L1/reservations
+
 
 
