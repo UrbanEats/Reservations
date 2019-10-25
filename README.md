@@ -23,21 +23,32 @@ The reservations components for a restaurant reservations service.
 ### Installing Dependencies
 From within the root directory
 
-0. To see a working version of the 
+1. To see a working version of the application
+```
+git checkout e589de6
+```
 
-1. Install project dependencies
-```npm install```
+2. Install project dependencies
+```javascript
+npm install
+```
 
-2. To seed the MongoDB database
-```npm run seed```
+3. To seed the MongoDB database
+```javascript
+npm run seed
+```
 
-3. To create a client bundle
-```npm run build```
+4. To create a client bundle
+```javascript
+npm run build
+```
 
-4. To start the server
-```npm server-dev```
+5. To start the server
+```javascript
+npm server-dev
+```
 
-5. To see the fruit of your labors, go to `localhost:3000/:rid/reservations` i.e. localhost:3000/L1/reservations
+6. To see the fruit of your labors, go to `localhost:3000/:rid/reservations` i.e. localhost:3000/L1/reservations
 
 
 
