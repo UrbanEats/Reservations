@@ -2,7 +2,7 @@
 
 UrbanEats Restaurant Reservation System
 
-<iframe src="https://giphy.com/embed/duWtN8qL5luF8p6xGS" width="480" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/duWtN8qL5luF8p6xGS">via GIPHY</a></p>
+https://media.giphy.com/media/duWtN8qL5luF8p6xGS/source.mp4
 
 ## Related Projects
 
