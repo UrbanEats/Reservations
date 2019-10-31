@@ -11,9 +11,8 @@ The reservations components for a restaurant reservations service.
   - https://github.com/UrbanEats/Reviews
 
 ## Table of Contents
-1. [Usage](#Usage)
 1. [Requirements](#requirements)
-1. [Development](#development)
+1. [Installing Dependencies](#Installing Dependencies)
 
 ## Requirements
 - Node v8.15.x
